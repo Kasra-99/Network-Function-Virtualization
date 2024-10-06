@@ -1,19 +1,12 @@
-# Network-Function-Virtualization
+Network-Function-Virtualization
+========================================================
 In this repository, I explain network function virtualization (NFV) through some workshops from Coursera (NFV tutorial from Georgia tech university).
 
 Reference:
-https://www.coursera.org/learn/network-virtual/home/module/1
-
-Mininet: Rapid Prototyping for Software Defined Networks
-========================================================
-*The best way to emulate almost any network on your laptop!*
-
-Mininet 2.3.1b4
-
-[![Build Status][1]](https://github.com/mininet/mininet/actions)
+https://www.coursera.org/learn/network-virtual
 
 
-### What is Mininet?
+### How to install docker?
 
 Mininet emulates a complete network of hosts, links, and switches
 on a single machine.  To create a sample two-host, one-switch network,
